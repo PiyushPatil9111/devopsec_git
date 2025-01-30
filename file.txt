@@ -1,3 +1,3 @@
-First to pull changes.
+First file in now something different.
 
 trying to create a conflict
